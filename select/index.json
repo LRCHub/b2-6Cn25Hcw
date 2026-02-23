@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "うたかた歌（feat. 菅田将暉）",
+  "base_artist": "RADWIMPS",
+  "createdAt": "2026-02-23T04:45:37.060039Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "うたかた歌",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_うたかた歌_RADWIMPS.txt"
+    }
+  ]
+}
